@@ -1,16 +1,17 @@
 # Hi, I'm Aashna
 
-MS Bioinformatics student at **Johns Hopkins University**, working on cancer methylation and cell-free DNA analysis.
+MS Bioinformatics student at **Johns Hopkins University**, focused on cancer methylation and cell-free DNA analysis.
 
-## Current Focus
+## Research Interests
 
-I'm currently in the [Easwaran Lab](https://www.hopkinsmedicine.org/profiles/details/hariharan-easwaran) at the Sidney Kimmel Cancer Center, where I work on:
+I'm currently working in the [Easwaran Lab](https://www.hopkinsmedicine.org/profiles/details/hariharan-easwaran) at the Sidney Kimmel Cancer Center on DNA methylation in cancer.
 
-- **Whole-genome bisulfite sequencing (WGBS)** analysis on colorectal cancer datasets
-- **DNA methylation** patterns in cancer biology
-- Building reproducible bioinformatics pipelines for methylation analysis
+My broader research interests sit at the intersection of:
+- **Cancer epigenetics** — how methylation patterns drive and reflect tumor biology
+- **Liquid biopsy** — methylation-based MRD detection, cfDNA fragmentomics
+- **Precision oncology** — translating computational findings into clinical decisions
 
-Broader research interest: precision oncology, with a particular focus on liquid biopsy approaches — methylation-based MRD detection, cfDNA fragmentomics, and how computational methods can support clinical decision-making in cancer care.
+This GitHub holds my **personal projects** built on public datasets — pipeline development, ML on genomic data, and replications of published cancer genomics work.
 
 ## Tech Stack
 
@@ -18,11 +19,6 @@ Broader research interest: precision oncology, with a particular focus on liquid
 **Bioinformatics:** Bismark · methylKit · Bioconductor · BLAST · Ensembl  
 **Pipelines & Infra:** Nextflow · Docker · Git · AWS  
 **ML & Analysis:** scikit-learn · pandas · ggplot2 · Jupyter
-
-## Selected Projects
-
-- End-to-end WGBS pipeline for colon cancer methylation analysis
-- More coming soon as I migrate ongoing work to public repos
 
 ## Background
 
