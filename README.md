@@ -17,7 +17,6 @@ This GitHub holds my **personal projects** built on public datasets — pipeline
 
 **Languages:** Python · R · Bash  
 **Bioinformatics:** Bismark · methylKit · Bioconductor · BLAST · Ensembl  
-**Pipelines & Infra:** Nextflow · Docker · Git · AWS  
 **ML & Analysis:** scikit-learn · pandas · ggplot2 · Jupyter
 
 ## Background
@@ -28,5 +27,5 @@ Wet lab experience in pharmacogenomics (CYP2C19 genotyping via tetra-primer ARMS
 ## Reach Me
 
 - 📧 s.aashna2023@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/aashna-srikrishnan)
+- 💼 [LinkedIn](www.linkedin.com/in/aashna-srikrishnan-666a252b5)
 - 📍 Baltimore, MD
